@@ -1,0 +1,143 @@
+[
+  {
+    "title": "Prepare client presentation slides",
+    "description": "Create comprehensive slides for the quarterly review meeting with our biggest client. Include performance metrics and future roadmap.",
+    "category": "Work",
+    "status": "in_progress",
+    "priority": "high",
+    "deadline": "2025-08-15T14:00:00Z",
+    "priority_score": 85.0,
+    "ai_insights": {
+      "reasoning": "High priority due to client importance and upcoming deadline",
+      "suggested_categories": ["work", "presentation"],
+      "confidence_score": 0.9
+    }
+  },
+  {
+    "title": "Schedule annual health checkup",
+    "description": "Book appointment with family doctor for yearly physical exam and blood tests.",
+    "category": "Health",
+    "status": "todo",
+    "priority": "medium",
+    "deadline": "2025-08-26T10:00:00Z",
+    "priority_score": 60.0,
+    "ai_insights": {
+      "reasoning": "Important for health maintenance, can be scheduled flexibly",
+      "suggested_categories": ["health", "personal"],
+      "confidence_score": 0.8
+    }
+  },
+  {
+    "title": "Backup server data URGENT",
+    "description": "Critical server maintenance tonight requires full data backup. Must be completed before 6 PM today.",
+    "category": "Work",
+    "status": "todo",
+    "priority": "urgent",
+    "deadline": "2025-08-12T18:00:00Z",
+    "priority_score": 95.0,
+    "ai_insights": {
+      "reasoning": "Critical urgency due to tonight's maintenance window",
+      "suggested_categories": ["work", "maintenance"],
+      "confidence_score": 0.95
+    }
+  },
+  {
+    "title": "Complete online Python course",
+    "description": "Finish the remaining 3 modules of the Advanced Python Programming course on Coursera.",
+    "category": "Learning",
+    "status": "in_progress",
+    "priority": "medium",
+    "deadline": "2025-09-11T23:59:00Z",
+    "priority_score": 55.0,
+    "ai_insights": {
+      "reasoning": "Self-improvement task with flexible timeline",
+      "suggested_categories": ["learning", "personal"],
+      "confidence_score": 0.7
+    }
+  },
+  {
+    "title": "Pay credit card bill",
+    "description": "Monthly credit card payment due. Set up automatic payment to avoid late fees.",
+    "category": "Finance",
+    "status": "todo",
+    "priority": "high",
+    "deadline": "2025-08-17T23:59:00Z",
+    "priority_score": 75.0,
+    "ai_insights": {
+      "reasoning": "Financial obligation with specific due date",
+      "suggested_categories": ["finance", "personal"],
+      "confidence_score": 0.9
+    }
+  },
+  {
+    "title": "Grocery shopping for the week",
+    "description": "Buy essentials: milk, bread, eggs, fruits, vegetables. Also pick up prescription from pharmacy.",
+    "category": "Shopping",
+    "status": "todo",
+    "priority": "low",
+    "deadline": "2025-08-14T20:00:00Z",
+    "priority_score": 35.0,
+    "ai_insights": {
+      "reasoning": "Routine task, can be combined with pharmacy visit",
+      "suggested_categories": ["shopping", "personal"],
+      "confidence_score": 0.6
+    }
+  },
+  {
+    "title": "Fix leaky faucet in bathroom",
+    "description": "Kitchen faucet has been dripping for weeks. Need to replace the washer or call a plumber.",
+    "category": "Maintenance",
+    "status": "todo",
+    "priority": "low",
+    "deadline": "2025-08-19T17:00:00Z",
+    "priority_score": 30.0,
+    "ai_insights": {
+      "reasoning": "Home maintenance issue, not urgent but should be addressed",
+      "suggested_categories": ["maintenance", "personal"],
+      "confidence_score": 0.5
+    }
+  },
+  {
+    "title": "Review and update resume",
+    "description": "Update resume with recent projects and skills for potential job opportunities.",
+    "category": "Personal",
+    "status": "todo",
+    "priority": "medium",
+    "deadline": null,
+    "priority_score": 45.0,
+    "ai_insights": {
+      "reasoning": "Career development task without strict deadline",
+      "suggested_categories": ["personal", "work"],
+      "confidence_score": 0.7
+    }
+  },
+  {
+    "title": "Submit quarterly tax documents",
+    "description": "Compile and submit Q3 tax documents to accountant. Include all receipts and invoices.",
+    "category": "Finance",
+    "status": "done",
+    "priority": "high",
+    "deadline": "2025-08-10T17:00:00Z",
+    "priority_score": 80.0,
+    "completed_at": "2025-08-11T16:30:00Z",
+    "ai_insights": {
+      "reasoning": "Critical financial deadline successfully met",
+      "suggested_categories": ["finance", "work"],
+      "confidence_score": 0.95
+    }
+  },
+  {
+    "title": "Plan birthday party for mom",
+    "description": "Organize surprise birthday party for mom's 60th. Book venue, arrange catering, invite family.",
+    "category": "Personal",
+    "status": "in_progress",
+    "priority": "high",
+    "deadline": "2025-09-02T18:00:00Z",
+    "priority_score": 70.0,
+    "ai_insights": {
+      "reasoning": "Important family milestone requiring advance planning",
+      "suggested_categories": ["personal", "family"],
+      "confidence_score": 0.8
+    }
+  }
+]

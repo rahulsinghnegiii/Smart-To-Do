@@ -1,0 +1,101 @@
+[
+  {
+    "content": "Hi, can we schedule the client presentation for next week? The budget proposal needs to be ready by then. Also, make sure to include the Q3 performance metrics - they've been asking about that.",
+    "source_type": "whatsapp",
+    "timestamp": "2025-08-12T10:00:00Z",
+    "relevance_score": 0.9,
+    "processed_insights": {
+      "keywords_found": ["client", "presentation", "deadline", "meeting"],
+      "urgency_indicators": ["next week", "needs to be ready"],
+      "stakeholders": ["client"],
+      "business_impact": "high"
+    }
+  },
+  {
+    "content": "URGENT: Server maintenance scheduled for tonight at 11 PM. Please backup all important data before 6 PM. The maintenance window is from 11 PM to 3 AM. Database will be temporarily unavailable.",
+    "source_type": "email",
+    "timestamp": "2025-08-12T08:30:00Z",
+    "relevance_score": 1.0,
+    "processed_insights": {
+      "keywords_found": ["urgent", "maintenance", "backup", "deadline", "database"],
+      "urgency_indicators": ["URGENT", "tonight", "before 6 PM"],
+      "time_constraints": ["11 PM to 3 AM"],
+      "business_impact": "critical"
+    }
+  },
+  {
+    "content": "Doctor appointment reminder: Annual checkup scheduled for Thursday at 2 PM. Please arrive 15 minutes early for paperwork. Don't forget to bring insurance card and medication list.",
+    "source_type": "email",
+    "timestamp": "2025-08-11T16:00:00Z",
+    "relevance_score": 0.7,
+    "processed_insights": {
+      "keywords_found": ["appointment", "doctor", "health"],
+      "scheduled_time": "Thursday at 2 PM",
+      "preparation_needed": ["insurance card", "medication list"],
+      "business_impact": "personal"
+    }
+  },
+  {
+    "content": "Team meeting notes from today: Discussed Q4 goals and budget allocation. Marketing team needs strategy finalized by end of month. Development priorities shifted to focus on performance improvements.",
+    "source_type": "meeting",
+    "timestamp": "2025-08-12T11:30:00Z",
+    "relevance_score": 0.8,
+    "processed_insights": {
+      "keywords_found": ["meeting", "goals", "budget", "strategy", "deadline"],
+      "deadlines": ["end of month"],
+      "teams_involved": ["marketing", "development"],
+      "business_impact": "high"
+    }
+  },
+  {
+    "content": "Personal reminder: Mom's birthday party planning. Need to book venue by this weekend. Thinking of the community center or restaurant private room. Guest list is around 30 people. Also need to arrange catering.",
+    "source_type": "note",
+    "timestamp": "2025-08-11T20:00:00Z",
+    "relevance_score": 0.6,
+    "processed_insights": {
+      "keywords_found": ["birthday", "party", "venue", "catering"],
+      "deadline": "this weekend",
+      "guest_count": "30 people",
+      "venue_options": ["community center", "restaurant private room"],
+      "business_impact": "personal"
+    }
+  },
+  {
+    "content": "Conference call with investors scheduled for tomorrow at 3 PM. Need to prepare Q3 financial projections and growth metrics. Sarah will present the marketing performance. Duration: 1 hour.",
+    "source_type": "calendar",
+    "timestamp": "2025-08-11T17:00:00Z",
+    "relevance_score": 0.9,
+    "processed_insights": {
+      "keywords_found": ["call", "investors", "financial", "projections", "metrics"],
+      "scheduled_time": "tomorrow at 3 PM",
+      "participants": ["Sarah"],
+      "preparation_needed": ["Q3 financial projections", "growth metrics"],
+      "business_impact": "critical"
+    }
+  },
+  {
+    "content": "Grocery list for this week: milk, bread, eggs, organic fruits, vegetables, chicken breast. Also pickup prescription from CVS - Dr. prescribed antibiotics for 7 days. Pharmacy closes at 9 PM.",
+    "source_type": "note",
+    "timestamp": "2025-08-11T12:00:00Z",
+    "relevance_score": 0.4,
+    "processed_insights": {
+      "keywords_found": ["grocery", "prescription", "pharmacy"],
+      "shopping_list": ["milk", "bread", "eggs", "fruits", "vegetables", "chicken"],
+      "pharmacy_hours": "closes at 9 PM",
+      "business_impact": "personal"
+    }
+  },
+  {
+    "content": "Home maintenance reminder: Kitchen faucet still leaking. Been dripping for 2 weeks now. Need to either fix the washer myself or call a plumber. Also, the bathroom tile grout needs cleaning.",
+    "source_type": "note",
+    "timestamp": "2025-08-10T19:30:00Z",
+    "relevance_score": 0.3,
+    "processed_insights": {
+      "keywords_found": ["maintenance", "faucet", "leaking", "plumber"],
+      "duration": "2 weeks",
+      "options": ["fix washer", "call plumber"],
+      "additional_tasks": ["bathroom tile grout cleaning"],
+      "business_impact": "personal"
+    }
+  }
+]
